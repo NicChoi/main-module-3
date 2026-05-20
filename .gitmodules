@@ -1,0 +1,3 @@
+[submodule "shared"]
+	path = shared
+	url = git@github.com:NicChoi/sub-module-3.git
